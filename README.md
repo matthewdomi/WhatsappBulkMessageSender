@@ -5,3 +5,4 @@
 4) Add your custom message in **message.txt** file
 5) Add you contacts in **contacts.csv** after number field
 6) run **app.js** using command ```node app.js```
+# whatsapp-bulk-message-only-text
